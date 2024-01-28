@@ -11,8 +11,8 @@
  - Java
    
 ## ℹ CASE AÇIKLAMASI
-Test Case Adı: Kayıt Ol 
-Test Amacı: Selenium WebDriver kullanarak web sitesine yeni bir kullanıcı kaydetmeyi test edin. 
+ - Test Case Adı: Kayıt Ol 
+ - Test Amacı: Selenium WebDriver kullanarak web sitesine yeni bir kullanıcı kaydetmeyi test edin. 
 
 ## 📦 PROJE YAPISI
 - `src/test/java/base/baseUtil`: Java kodlarını initialize ederek bu class üzerinden çağırılarak kullanımı sağlayan class yapısını ifade eder.
