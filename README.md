@@ -6,7 +6,7 @@
 
 ## 🎨 KULLANILAN TEKNOLOJİLER
 
-##  CASE AÇIKLAMASI
+## ℹ CASE AÇIKLAMASI
 
 ## 📦 PROJE YAPISI
 
