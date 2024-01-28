@@ -33,7 +33,7 @@
 
 ## 🛟 KARŞILAŞILAN HATALAR VE HANDLE YÖNTEMLERİ
 - `Mouse on Hover` :Uygula açıldığında Kayıt Ol butonu mouse hareketi olmadan görüntülenmediğinden dolayı bu test adımında kullanıcı seleniumdan gelen özellik ile Mouse On Hover action kullanarak ilgili aksiyonu tamamlamıştır.
-- `reCAPTHCA Sorunu ` : Kullanıcı uygulamaya başarılı kayıt olma son aşamasında Google tarafında desteklenen reCaptcha engeli ile karşılaşmış fakat tarayı açıldıktan sonra senaryoda eklenen kod ile sorun giderilmiştir.
+- `reCAPTCHA Sorunu ` : Kullanıcı uygulamaya başarılı kayıt olma son aşamasında Google tarafında desteklenen reCaptcha engeli ile karşılaşmış fakat tarayı açıldıktan sonra senaryoda eklenen kod ile sorun giderilmiştir.
 
 
 ## 🚀 PROJE ÇALIŞTIRMA VE EKRAN GÖRÜNTÜLERİ
@@ -42,8 +42,19 @@
 https://github.com/yamangokhan/jengal-test-case/assets/101811316/3e24d046-0025-43de-a0de-a1ffe545a819
 
 
-## 🐞DEFECT
+## 🐞BUG
 
+ - `Ayn email ile kayıt olma hatası hk.` : Daha önce aynı email ile kayıt edilen bir kullanıcı var ise arayüzde herhangi bir hata mesajı gösterilmezden açılan pop-up mesajı "TAMAM" olarak görüntülenmekte ve Kayıt ol butonu üzerinde tet metnin dublicate şeklinde görüntülendiği doğrulanmıştır. 
+![2024-01-28_16h19_21](https://github.com/yamangokhan/jengal-test-case/assets/101811316/3005cad1-4ae1-4f4f-8026-db6e1976e611)
+
+ - `İsim input alanına 50 karakterden fazla data girildiğinde alınan hata hk.` : isim alanı 50 karakterden fazla olacak şekilde giriş yapıldığında herhangi bir uyarı mesajı ile karşılaşılmayıp, kullanıcıya "TAMAM" pop-up mesajı gösterilmektedir. Alınan hata sonrası kullanıcı her Kayıt ol butonuna tıkladığında ise Kayıt Ol text metnin dublicate olacak şekilde buton içerisinde görüntülendiği doğrulanmıştır. 
+
+
+https://github.com/yamangokhan/jengal-test-case/assets/101811316/24da15d8-f22e-4b28-bbc6-607685dec1f9
+
+
+
+https://github.com/yamangokhan/jengal-test-case/assets/101811316/f71f7e10-a696-430d-9983-e502ab2c0276
 
 
 
