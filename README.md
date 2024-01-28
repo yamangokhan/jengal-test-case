@@ -23,8 +23,18 @@
 - `src/test/resources/features`: Test seanryolarını tanımlamak için cucumber framework tarafından sağlanan yapıyı ifade eder.
   
 ## 🚩TEST SENARYOLARI
+ - `Test Case 1` : Geçerli ad-soyad, email, password ile yapılan başarılı giriş senaryosu.
+ - `Test Case 2` : Geçersiz ad-soyad, geçerli email, password ile yapılan uygulamaya giriş senaryosu
+ - `Test Case 3` : Geçersiz email, geçerli ad-soyad, password ile yapılan uygulamaya giriş senaryosu
+ - `Test Case 4` : Geçersiz password, geçerli ad-soyad, email ile yapılan uygulamaya giriş senaryosu
+ - `Test Case 5` : Geçersiz password doğrulaması ile yapılan uygulamaya giriş senaryosu
+ - `Test Case 6` : Zorunlu alanlarında validasyonlarının test edildiği uygulamaya giriş senaryosu
+
 
 ## 🛟 KARŞILAŞILAN HATALAR VE HANDLE YÖNTEMLERİ
+- `Mouse on Hover` :Uygula açıldığında Kayıt Ol butonu mouse hareketi olmadan görüntülenmediğinden dolayı bu test adımında kullanıcı seleniumdan gelen özellik ile Mouse On Hover action kullanarak ilgili aksiyonu tamamlamıştır.
+- `reCAPTHCA Sorunu ` : Kullanıcı uygulamaya başarılı kayıt olma son aşamasında Google tarafında desteklenen reCaptcha engeli ile karşılaşmış fakat tarayı açıldıktan sonra senaryoda eklenen kod ile sorun giderilmiştir.
+
 
 ## 🚀 PROJE ÇALIŞTIRMA VE EKRAN GÖRÜNTÜLERİ
 
