@@ -4,6 +4,22 @@
 
 # JENGAL TEST CASE 
 
+## KULLANILAN TEKNOLOJİLER
 
-The MIT License (MIT) 2017 - [Gokhan YAMAN](https://github.com/yamangokhan/). Please have a look at the [LICENSE.md](LICENSE.md) for more details.
+## CASE AÇIKLAMASI
+
+## PROJE YAPISI
+
+## TEST SENARYOLARI
+
+## KARŞILAŞILAN HATALAR VE HANDLE YÖNTEMLERİ
+
+## PROJE ÇALIŞTIRMA VE EKRAN GÖRÜNTÜLERİ
+
+## DEFECT
+
+
+
+
+The MIT License (MIT) 2024 - [Gokhan YAMAN](https://github.com/yamangokhan/). Please have a look at the [LICENSE.md](LICENSE.md) for more details.
 
