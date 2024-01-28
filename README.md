@@ -16,6 +16,10 @@
 
 ## PROJE ÇALIŞTIRMA VE EKRAN GÖRÜNTÜLERİ
 
+
+https://github.com/yamangokhan/jengal-test-case/assets/101811316/3e24d046-0025-43de-a0de-a1ffe545a819
+
+
 ## DEFECT
 
 
